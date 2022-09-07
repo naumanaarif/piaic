@@ -11,7 +11,7 @@ The [Presidential Initiative for Artificial Intelligence and Computing (PIAIC)](
 
 A one year Artificial Intelligence program offered by PIAIC, designed for concentrators and non-concentrators alike, with or without prior programming experience. Topics include Data Science, Machine Learning, and Deep Learning.
 
-# Course Information
+## Course Information
 
 |  |  |
 | --- | --- |
