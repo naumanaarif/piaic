@@ -15,6 +15,6 @@ A one year Artificial Intelligence program offered by PIAIC, designed for concen
 
 |  |  |
 | --- | --- |
-| **Batch** | 36 |
+| **Batch No.** | 36 |
 | **Instructor** | Sir Nasir Hussain |
 | **Center** | Sir Syed University of Engineering and Technology |
