@@ -4,7 +4,7 @@ A one year [Artificial Intelligence Program](https://www.piaic.org/artificial-in
 
 # Solutions
 
-- [Quarter 1]()
+- [Quarter 1](https://github.com/naumanaarif/piaic/tree/main/ai/q1/)
 - [Quarter 2]()
 - [Quarter 3]()
 - [Quarter 4]()
