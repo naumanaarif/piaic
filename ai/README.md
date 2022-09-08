@@ -1,6 +1,6 @@
-# Artificial Intelligence
+# Artificial Intelligence and Computing (AIC)
 
-A one year Artificial Intelligence program offered by PIAIC, designed for concentrators and non-concentrators alike, with or without prior programming experience. Topics include Data Science, Machine Learning, and Deep Learning.
+A one year [Artificial Intelligence Program](https://www.piaic.org/artificial-inteligence) offered by PIAIC, designed for absolute biggeners. Topics include Data Science, Machine Learning, and Deep Learning.
 
 # Solutions
 
