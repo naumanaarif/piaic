@@ -1,10 +1,16 @@
-# Artificial Intelligence and Computing (AIC)
-
-A one year [Artificial Intelligence Program](https://www.piaic.org/artificial-inteligence) offered by PIAIC, designed for absolute beginners. Topics include Data Science, Machine Learning, and Deep Learning.
-
 # Solutions
 
-- [Quarter 1](https://github.com/naumanaarif/piaic/tree/main/ai/q1/)
-- [Quarter 2]()
-- [Quarter 3]()
-- [Quarter 4]()
+- ### [Quarter 1](https://github.com/naumanaarif/piaic/tree/main/ai/q1/)
+
+    - #### Introduction
+        - [Assignment 0](https://github.com/naumanaarif/piaic/tree/main/ai/q1/assignments/0/) - AI For Everyone
+    - #### Python
+        - [Assignment 1](https://github.com/naumanaarif/piaic/tree/main/ai/q1/assignments/1.ipynb/) - `print()`, variables & operators
+        - [Assignment 2](https://github.com/naumanaarif/piaic/tree/main/ai/q1/assignments/2.ipynb/) - `Input()`
+        <!-- - [Assignment 3]()
+        - [Assignment 4]()
+        - [Assignment 5]() -->
+        
+<!-- - ### [Quarter 2]()
+- ### [Quarter 3]()
+- ### [Quarter 4]() -->
