@@ -18,8 +18,7 @@ A one year [Artificial Intelligence Program](https://www.piaic.org/artificial-in
 | **Roll No.** | PIAIC186140 |
 | **Batch No.** | 36 |
 | **Program** | Artificial Intelligence & Computing (AIC) |
-| **Instructor** | Sir Nasir Hussain |
-| **Center** | Sir Syed University of Engineering and Technology |
+| **Center** | Usman Institute of Technology |
 | **City** | Karachi |
 
 ## Submissions
