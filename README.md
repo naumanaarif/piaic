@@ -11,13 +11,15 @@ The [Presidential Initiative for Artificial Intelligence and Computing (PIAIC)](
 
 A one year [Artificial Intelligence Program](https://www.piaic.org/artificial-inteligence) offered by PIAIC, designed for absolute beginners. Topics include *Data Science*, *Machine Learning*, and *Deep Learning*.
 
-## Course Information
+## Student Information
 
 |  |  |
 | --- | --- |
+| **Name** | Muhammad Nauman |
 | **Roll No.** | PIAIC186140 |
 | **Batch No.** | 36 |
-| **Program** | Artificial Intelligence & Computing (AIC) |
+| **Distance Learning** | No |
+| **Program** | Artificial Intelligence (AI) |
 | **Center** | Usman Institute of Technology |
 | **City** | Karachi |
 
