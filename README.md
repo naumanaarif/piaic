@@ -11,7 +11,7 @@ The [Presidential Initiative for Artificial Intelligence and Computing (PIAIC)](
 
 A one year [Artificial Intelligence Program](https://www.piaic.org/artificial-inteligence) offered by PIAIC, designed for absolute beginners. Topics include *Data Science*, *Machine Learning*, and *Deep Learning*.
 
-## Student Information
+<!-- ## Student Information
 
 |  |  |
 | --- | --- |
@@ -22,6 +22,7 @@ A one year [Artificial Intelligence Program](https://www.piaic.org/artificial-in
 | **Program** | Artificial Intelligence (AI) |
 | **Center** | Usman Institute of Technology |
 | **City** | Karachi |
-
+ -->
+ 
 ## Submissions
 Click [**here**](https://github.com/naumanaarif/piaic/tree/main/ai) to see my submissions to the assignments of **Artificial Intelligence** track.
